@@ -1,5 +1,5 @@
 # openwebnet-alarm
-###Description
+### Description
 Python scripts that allow you to control the openwebnet alarm. 
 You can retrieve the status and enable/disable it.
 OpenWebNet does not allow you to enable (\*5\*8##) and disable(\*5\*9##) alarm with the default commands. You need to define two auxiliary commands (see the scripts for more info).
